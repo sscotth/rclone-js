@@ -33,6 +33,7 @@
     "aes-js": "^3.1.0",
     "base32-decode": "^1.0.0",
     "base32-encode": "^1.0.0",
+    "readable-stream": "^2.3.3",
     "scrypt-js": "^2.0.3",
     "through2": "^2.0.3",
     "tweetnacl": "^1.0.0"
